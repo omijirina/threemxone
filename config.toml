@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://threemxone.vercel.app/"
 languageCode = "en"
 title = "Threemxone"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34657908780"
 email = "refac@gmail.com"
 location = "Av. Francisco de Goya, 72, Local 19, 50005 Zaragoza, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://threemxone.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
